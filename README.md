@@ -2,22 +2,17 @@
 
 ----
 
-## no longer maintained
-
-My employer used to rely heavily on Kafka and so I could dogfood and iterate on
-this project regularly. Unfortunately, this is no longer the case and I don't
-have the resources to maintain and/or develop this anymore.
-
-I don't feel comfortable recommending people to use outdated and unmaintained
-software, so please consider using an established fork, forking this yourself,
-or creating a new-and-improved exporter as an alternative.
-
-Thanks all!
+## This is a Prometheus exporter for topic and consumer group offsets in Kafka.
 
 ----
 
-This is a Prometheus exporter for topic and consumer group offsets in Kafka.
+## Requirements
+
+Kafka          => 0.10.0.0
+golang         =  1.11
 Your Kafka cluster must be on version 0.10.0.0 or above for this to work.
+
+----
 
 ## Usage
 
