@@ -9,8 +9,8 @@
 ## Requirements
 
 Kafka          => 0.10.0.0
+
 golang         =  1.11
-Your Kafka cluster must be on version 0.10.0.0 or above for this to work.
 
 ----
 
