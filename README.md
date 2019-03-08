@@ -1,8 +1,6 @@
 # kafka-offset-exporter
 
-----
-
-## This is a Prometheus exporter for topic and consumer group offsets in Kafka.
+## Prometheus exporter for topic and consumer group offsets in Kafka.
 
 ----
 
